@@ -11,7 +11,7 @@
     <title>hhh</title>
 </head>
 <body>
-<from action="${pageContext.request.contextPath}/register" onsubmit="return on_submit()" method="post">
+<form action="${pageContext.request.contextPath}/register" onsubmit="return on_submit()" method="post">
     username<input type="text" name="username"/><br/>
     password<input type="password" name="password"/><br/>
     Email<input type="text" name="email"><br/>
@@ -19,7 +19,7 @@
     Date of Birth:<input type="text name" name="birthDate"><br/>
     <input type="submit" value="Register">
 
-</from>
+</form>
 
 </body>
 </html>
