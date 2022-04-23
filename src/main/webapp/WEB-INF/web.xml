@@ -27,12 +27,12 @@
     </servlet>
     <servlet>
         <servlet-name>LifeCycleServlet</servlet-name>
-        <servlet-class>com.cqiuzeyong.week3.LifeCycleServlet</servlet-class>
+        <servlet-class>com.qiuzeyong.week3.LifeCycleServlet</servlet-class>
     </servlet>
     <!--automatic code-->
     <servlet>
         <servlet-name>RegisterServlet</servlet-name>
-        <servlet-class>com.cqiuzeyong.week3.RegisterServlet</servlet-class>
+        <servlet-class>com.qiuzeyong.week3.RegisterServlet</servlet-class>
     </servlet>
     <!--<servlet>
         <servlet-name>JDBCDemoServlet</servlet-name>
