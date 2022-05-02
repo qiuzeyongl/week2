@@ -1,4 +1,4 @@
-package com.com.qiuzeyong.week4;
+package com.qiuzeyong.week4;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebInitParam;
