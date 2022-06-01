@@ -1,6 +1,6 @@
 package com.qiuzeyong.dan;
 
-import com.dabing.model.User;
+import com.qiuzeyong.model.User;
 
 import java.sql.Connection;
 import java.sql.SQLException;
